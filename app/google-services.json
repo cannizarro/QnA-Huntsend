@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677322459377",
+    "firebase_url": "https://qna-hiring.firebaseio.com",
+    "project_id": "qna-hiring",
+    "storage_bucket": "qna-hiring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677322459377:android:99f654866c0ec971",
+        "android_client_info": {
+          "package_name": "com.cannizarro.qna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677322459377-77h9s8af6nt4i7vi10utsi9dco50q0qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cannizarro.qna",
+            "certificate_hash": "d02e31274f0782c0f9cd5f1470ff28cb29855ace"
+          }
+        },
+        {
+          "client_id": "677322459377-0oab9t9g1jqacno15ctkqie8chhhqtgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0V-wSqFi5C8ZsNR3d5O_DFqqjRi8gSQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677322459377-0oab9t9g1jqacno15ctkqie8chhhqtgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
